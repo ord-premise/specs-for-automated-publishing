@@ -1,21 +1,23 @@
 # Title
 
-### Abstract
-
-Text
-
----
-
 ### Authors
 
 - Author (affiliation)
 - ...
 
-## Heading
+### Abstract
+
+Text
+
+## Introduction
 
 Text.
 
-## Conclusion
+## Current implementation
+
+Text.
+
+## Future directions
 
 Text.
 
