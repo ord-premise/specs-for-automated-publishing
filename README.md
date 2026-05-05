@@ -1,4 +1,4 @@
-# D#.# - Title
+# D1.4 - General documentation and technical specifications of the metadata requirements for automated publishing of FAIR ORD into open repositories
 
 Short description of deliverable
 
