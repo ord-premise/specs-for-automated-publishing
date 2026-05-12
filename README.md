@@ -14,17 +14,19 @@ Additionally, this project shares synergies with other projects, particularly AP
 
 ## Goal
 
-Be able to comply to the FAIR data principles.
+Enable users to easily export all data supporting a project or publication in a way that complies with the FAIR data principles.
 
 ## Achievement
 
-Zenodo is one of the recomended general repositories from the SNF.
+Zenodo is one of the general-purpose repositories recommended by the SNSF. Starting, for example, from an openBIS publication record, it is now possible to reconstruct the full data tree linked to the object and export it easily to Zenodo.
 
 ## External links
 
 List here any relevant tools used in preparing this deliverable that are not maintained by PREMISE.
 
 OpenBIS Zenodo export user documentation: [openBIS Documentation – Export Data to Zenodo](https://openbis.readthedocs.io/en/latest/user-documentation/general-users/data-export.html?utm_source=chatgpt.com#export-data-to-zenodo)
+
+[Demonstration](https://www.youtube.com/watch?v=rTl5hP-McJo) of exporting to Zenodo data linked to an example publication object created in an openBIS test instance during PREMISE, including both experimental and simulated microscopy data.
 
 Zenodo: https://zenodo.org/
 
