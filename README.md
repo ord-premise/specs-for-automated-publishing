@@ -11,6 +11,8 @@ Additionally, this project shares synergies with other projects, particularly AP
 - Mihai-Cosmin Danaila (Scientific IT Services, ETH Zurich)
 - Adam Laskowski (Scientific IT Services, ETH Zurich)
 - Juan Fuentes (Scientific IT Services, ETH Zurich)
+- Carlo Pignedoli (Empa)
+- Fabio Lopes (Empa)
 
 ## Goal
 
